@@ -1,0 +1,10 @@
+flask
+requests
+openai
+pandas
+numpy
+matplotlib
+pdfplumber
+playwright
+beautifulsoup4
+lxml
